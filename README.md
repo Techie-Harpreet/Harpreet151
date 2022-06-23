@@ -17,9 +17,9 @@
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
 ✔️ 👋 HI, I'M Harpreet .<br>
-✔️ 👀 I'M Interesterd In Coding & Ehical Hacking  .<br>
+✔️ 👀 I'M Interesterd In Coding & Ethical Hacking  .<br>
 ✔️ 🤠 I'M Already Know , C , Python, DJANGO , HTML , JAVASCRIPT , BOOTSTRAP , MYSQL , CSS & XML . <br>
-✔️ 📝 I"M Currently Learning PHP & Ehical Hacking .<br>
+✔️ 📝 I"M Currently Learning PHP & Ethical Hacking .<br>
 ✔️ 📧 E-Mail At :- techieharpreet@protonmail.com <br>
 ✔️ ☎ Contact Me :- <a href="https://t.me/">Telegram</a><br>
 
