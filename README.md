@@ -1,5 +1,3 @@
-
-
 <p align="center"><a href="https://t.me/"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
 
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br></h4>
