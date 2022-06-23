@@ -1,17 +1,65 @@
-<h1 align="center">Hi 👋, I'm Harpreet</h1>
-<h3 align="center">A passionate software and backend developer from India</h3>
 
-- 📫 How to reach me **contact@harpreetsinghbansal.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//harpreet-singh-bansal-453732227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/harpreet-singh-bansal-453732227" height="30" width="40" /></a>
-<a href="https://fb.com//harpreet.singhbansal.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/harpreet.singhbansal.1" height="30" width="40" /></a>
-<a href="https://instagram.com//harpreet_singh_bansal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/harpreet_singh_bansal/" height="30" width="40" /></a>
+<p align="center"><a href="https://t.me/"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
+
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br></h4>
+
+<p align='center'> 
+<a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://harpreetsinghbansal.com/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/techieharpreet"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/"><img height="25" src="https://img.shields.io/badge/hackerrank-%23ffffff.svg?&style=for-the-badge&logo=hackerrank&logoColor=green"></a>&nbsp;&nbsp;   
+<a href=""><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp; 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com//harpreet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/harpreet" /></a></p><br><br>
+<p align="center"> <a href="https://github.com/harpreet151/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=harpreet151&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="mitthu786" /></a> </p><br>
+
+## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
+
+✔️ 👋 HI, I'M Harpreet .<br>
+✔️ 👀 I'M Interesterd In Coding & Ehical Hacking  .<br>
+✔️ 🤠 I'M Already Know , C , Python, DJANGO , HTML , JAVASCRIPT , BOOTSTRAP , MYSQL , CSS & XML . <br>
+✔️ 📝 I"M Currently Learning PHP & Ehical Hacking .<br>
+✔️ 📧 E-Mail At :- techieharpreet@proton.com <br>
+✔️ ☎ Contact Me :- <a href="https://t.me/">Telegram</a><br>
+
+
+## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://i.dlpng.com/static/png/5419450-php-image-png-98-images-in-collection-page-2-php-png-270_200_preview.png" /></a>
+
+<a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+
+<a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
+
+<a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
+<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/> </a>
+
+<br />
+<br />
+
+## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
+<!-- <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a> -->
+
+
+
+<br />
+<br />
+
+
+## ⚡️ ꜱᴛᴀᴛꜱ 
+
+![Harpreet151's github stats](https://github-stats-alpha.vercel.app/api/?username=harpreet151)
+
+
