@@ -16,12 +16,12 @@
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
-✔️ 👋 HI, I'M Harpreet .<br>
-✔️ 👀 I'M Interesterd In Coding & Ethical Hacking  .<br>
+✔️ 👋 ℍ𝕀, 𝕀'𝕄 ℍ𝕒𝕣𝕡𝕣𝕖𝕖𝕥 .<br>
+✔️ 👀 𝕀'𝕄 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕖𝕣𝕕 𝕀𝕟 ℂ𝕠𝕕𝕚𝕟𝕘 & 𝔼𝕥𝕙𝕚𝕔𝕒𝕝 ℍ𝕒𝕔𝕜𝕚𝕟𝕘 .<br>
 ✔️ 🤠 I'M Already Know , C , Python, DJANGO , HTML , JAVASCRIPT , BOOTSTRAP , MYSQL , CSS & XML . <br>
-✔️ 📝 I"M Currently Learning PHP & Ethical Hacking .<br>
-✔️ 📧 E-Mail At :- techieharpreet@protonmail.com <br>
-✔️ ☎ Contact Me :- <a href="https://t.me/">Telegram</a><br>
+✔️ 🤠 𝕀'𝕄 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕂𝕟𝕠𝕨 , ℂ , ℙ𝕪𝕥𝕙𝕠𝕟, 𝔻𝕁𝔸ℕ𝔾𝕆 , ℍ𝕋𝕄𝕃 , 𝕁𝔸𝕍𝔸𝕊ℂℝ𝕀ℙ𝕋 , 𝔹𝕆𝕆𝕋𝕊𝕋ℝ𝔸ℙ , 𝕄𝕐𝕊ℚ𝕃 , ℂ𝕊𝕊 & 𝕏𝕄𝕃 .<br>
+✔️ 📧 𝔼-𝕄𝕒𝕚𝕝 𝔸𝕥 :- 𝕥𝕖𝕔𝕙𝕚𝕖𝕙𝕒𝕣𝕡𝕣𝕖𝕖𝕥@𝕡𝕣𝕠𝕥𝕠𝕟𝕞𝕒𝕚𝕝.𝕔𝕠𝕞 <br>
+✔️ ☎ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕄𝕖 :- 𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞</a><br>
 
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
